@@ -6,7 +6,9 @@ Used to test the circuit architecture that will be implemented on the [6S CubeSa
 - Short circuit current with a transimpedance amplifier.
 - I2C controlled DAC is used to generate the voltage ramp needed to have a linearly increasing current from the solar cell
 
-<img src="https://github.com/Luca452/Solar-cell-characteristics-tracer/assets/36864265/931d0478-209a-4c75-ab21-4d0cd4c60547" width="390" />
+<img src="https://github.com/Luca452/Solar-cell-characteristics-tracer/assets/36864265/931d0478-209a-4c75-ab21-4d0cd4c60547" width="350" />
+<img src="https://github.com/Luca452/Solar-cell-characteristics-tracer/assets/36864265/bb5a8d4f-8e90-4719-8e50-680359bf7b4c" width="300" />
+<img src="https://github.com/Luca452/Solar-cell-characteristics-tracer/assets/36864265/02ad5b2f-6362-4e02-addb-c19eb73c97e9" width="300" />
 
 <img src="https://github.com/Luca452/Solar-cell-characteristics-tracer/assets/36864265/46387e22-8247-492c-8300-9cf237076fd4" width="1000" />
 
